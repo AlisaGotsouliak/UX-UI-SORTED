@@ -1,4 +1,5 @@
 # UX-UI-SORTED
+An UX/UI project made in Adobe XD. 
 האתר ידריך את המשתמשים איך לשמור בעצמם על הסדר והארגון בארון הבגדים שלהם, מבלי שיצטרכו להזמין ‏מומחה/מומחית לסידור וארגון ארונות.‏
 
 https://xd.adobe.com/view/442bc91d-a1af-421d-9f37-6f23d2852846-1178/?fullscreen
